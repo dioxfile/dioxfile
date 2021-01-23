@@ -7,7 +7,7 @@
 
 ## Hi! 👋
 
-My name is Karan Luciano, Computer scientist at the Universidade Estadual do Estado de Mato Grosso - UNEMAT. Great technology enthusiast and lover of the GNU / Linux system.
+My name is Karan Luciano, Full professor at the State University of Mato Grosso (UNEMAT). Bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), postgraduate in Network Technology with Structured Cabling (UFLA, 2006) and in Computer Science (PUC-RS, 2009). Master in Computer Science (UFG, 2014).
 
 - :office_worker: 
 - :fire: Techs: Sheel Script, Python, PHP, Laravel Framework, Servers, among others.
@@ -31,8 +31,8 @@ My name is Karan Luciano, Computer scientist at the Universidade Estadual do Est
 
 ## My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lkaranl&show_icons=true&hide_border=false)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dioxfile&show_icons=true&hide_border=false)
 
-> :octocat: [lkaranl.github.io](https://lkaranl.github.io)
+> :octocat: [dioxfile.github.io](https://dioxfile.github.io)
 
 ---
