@@ -7,7 +7,7 @@
 
 ## Hi! 👋
 
-My name is Diógenes Antonio Marques José, Full professor at the State University of Mato Grosso (UNEMAT). Bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), postgraduate in Network Technology with Structured Cabling (UFLA, 2006) and in Computer Science (PUC-RS, 2009). Master in Computer Science (UFG, 2014).
+My name is Diógenes Antonio Marques José, professor at the State University of Mato Grosso (UNEMAT). Bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), postgraduate in Network Technology with Structured Cabling (UFLA, 2006) and in Computer Science (PUC-RS, 2009). Master in Computer Science (UFG, 2014).
 
 - :office_worker: 
 - :fire: Techs: Sheel Script, Python, PHP, Laravel Framework, Servers, among others.
