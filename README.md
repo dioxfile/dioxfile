@@ -22,7 +22,7 @@ My name is Diógenes Antonio Marques José, professor at the State University of
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tcl/tcl.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/otcl/otcl.png"></code>
 <code><img height="20" src="https://github.com/dioxfile/dioxfile/edit/main/awk.png"></code>
 <code><img height="20" src="https://github.com/dioxfile/dioxfile/edit/main/otcl.png"></code>
 <code><img height="20" src="https://github.com/dioxfile/dioxfile/edit/main/ns2.png"></code>
