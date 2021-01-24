@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/di%C3%B3genes-antonio-m-jos%C3%A9-40ba6223/)](https://www.linkedin.com/in/di%C3%B3genes-antonio-m-jos%C3%A9-40ba6223/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dioxfile@gmail.com)](mailto:dioxfile@gmail.com )
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5565999465280&text=Olá!)](https://api.whatsapp.com/send?phone=5565999465280&text=Olá!)
-[![Researchgate Badge](https://img.shields.io/badge/-Researchgate?style=flat-square&logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Diogenes_Jose)](https://www.researchgate.net/profile/Diogenes_Jose)
+[![Researchgate Badge](https://img.shields.io/badge/-Researchgate-Blue?style=flat-square&logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Diogenes_Jose)](https://www.researchgate.net/profile/Diogenes_Jose)
 
 
 ## Hi! 👋
