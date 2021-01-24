@@ -17,14 +17,14 @@ My name is Diógenes Antonio Marques José, professor at the State University of
 
 **Languages and Tools:**
 
-<code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" width="30" src="https://github.com/dioxfile/dioxfile/blob/main/awk.png"></code>
-<code><img height="30" width="40"  src="https://github.com/dioxfile/dioxfile/blob/main/otcl.png"></code>
-<code><img height="30" width="50"  src="https://github.com/dioxfile/dioxfile/blob/main/ns2.png"></code>
+<code><img height="70" width="70"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="70" width="70"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="70" width="70"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="70" width="70"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="70" width="70"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="70" width="70" src="https://github.com/dioxfile/dioxfile/blob/main/awk.png"></code>
+<code><img height="70" width="100"  src="https://github.com/dioxfile/dioxfile/blob/main/otcl.png"></code>
+<code><img height="70" width="120"  src="https://github.com/dioxfile/dioxfile/blob/main/ns2.png"></code>
 
 ## My Stats
 
