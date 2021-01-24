@@ -22,9 +22,9 @@ My name is Diógenes Antonio Marques José, professor at the State University of
 <code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" width="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" width="30" src="https://github.com/dioxfile/dioxfile/edit/main/awk.PNG"></code>
-<code><img height="30" width="40"  src="https://github.com/dioxfile/dioxfile/edit/main/otcl.PNG"></code>
-<code><img height="30" width="50"  src="https://github.com/dioxfile/dioxfile/edit/main/ns2.PNG"></code>
+<code><img height="30" width="30" src="https://github.com/dioxfile/edit/main/awk.png"></code>
+<code><img height="30" width="40"  src="https://github.com/dioxfile/edit/main/otcl.png"></code>
+<code><img height="30" width="50"  src="https://github.com/dioxfile/edit/main/ns2.png"></code>
 
 ## My Stats
 
