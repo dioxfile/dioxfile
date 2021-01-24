@@ -12,7 +12,7 @@
 My name is Diógenes Antonio Marques José, professor at the State University of Mato Grosso (UNEMAT). Bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), postgraduate in Network Technology with Structured Cabling (UFLA, 2006) and in Computer Science (PUC-RS, 2009). Master in Computer Science (UFG, 2014).
 
 - :office_worker: 
-- :fire: Techs: Sheel Script, Python, PHP, Laravel Framework, Servers, among others.
+- :fire: Techs: Sheel Script, Python, Raspbarry Pi, AWK, OTCL and NS-2.
 - :books: Studying all layers in Software Development and Open Source
 
 **Languages and Tools:**
