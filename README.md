@@ -9,7 +9,7 @@
 
 ## Hi! 👋
 
-My name is Diógenes Antonio Marques José, and I am a professor at the State University of Mato Grosso (UNEMAT). I have a bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), a postgraduate in Network Technology with Structured Cabling (UFLA, 2006), and a master's in Computer Science (PUC-RS, 2009), and a master's in Computer Science (UFG, 2014). I am currently certified in Cisco CCNA 200-301.
+My name is Diógenes Antonio Marques José, and I am a professor at the State University of Mato Grosso (UNEMAT). I have a bachelor of Computer Science from the State University of Mato Grosso (UNEMAT, 2005), a postgraduate in Network Technology with Structured Cabling (UFLA, 2006), a specialization in Computer Science (PUC-RS, 2009), and a master's in Computer Science (UFG, 2014). I am currently certified in Cisco CCNA 200-301.
 
 - :office_worker: 
 - :fire: Techs: Shell Script, Python, Raspberry Pi, AWK, OTCL, and NS-2.
